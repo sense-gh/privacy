@@ -4,7 +4,7 @@
 
 ## 1. Who is responsible and what this notice covers
 
-Sense Inc. is responsible for the launch website and launch-update list. Contact hello@sense.inc for access, correction, deletion, complaints, and privacy questions. The business mailing address is in section 11. This notice covers the teaser and its first-party signup service, not a claim that unreleased applications already use a particular architecture.
+Sense Inc. is responsible for the launch website and launch-update list. Contact [hello@sense.inc](mailto:hello@sense.inc) for access, correction, deletion, complaints, and privacy questions. The business mailing address is in section 11. This notice covers the teaser and its first-party signup service, not a claim that unreleased applications already use a particular architecture.
 
 Before a new app, payment flow, managed account, or hosted AI feature collects additional information, Sense will publish a versioned feature-specific notice describing its actual processing. Accepting consumer terms or this notice is not blanket consent for future features. The durable restrictions in section 2 of the applicable Sense agreement apply throughout.
 
@@ -54,7 +54,7 @@ Support and privacy correspondence is retained for up to 12 months after closure
 
 ## 7. Your choices and rights
 
-You can unsubscribe through a direct link in any update without logging in, answering questions, or paying. It takes effect immediately in the signup system. A message already handed off for delivery may still arrive; it does not reactivate your subscription. You can also contact hello@sense.inc to request access, a portable copy, correction, deletion, restriction or objection where applicable, or to raise a concern. We offer access, correction, and deletion as a company policy even where a particular statutory threshold does not apply.
+You can unsubscribe through a direct link in any update without logging in, answering questions, or paying. It takes effect immediately in the signup system. A message already handed off for delivery may still arrive; it does not reactivate your subscription. You can also contact [hello@sense.inc](mailto:hello@sense.inc) to request access, a portable copy, correction, deletion, restriction or objection where applicable, or to raise a concern. We offer access, correction, and deletion as a company policy even where a particular statutory threshold does not apply.
 
 We acknowledge privacy requests within 10 business days and aim to complete them within 30 days, subject to a shorter legal deadline or a legally permitted extension explained to you. We verify requests proportionately, normally through the relevant email address; we do not routinely require government identification. Authorized representatives may act with appropriate proof of authority. We explain a refusal and available review or appeal; contact the same address for internal review. You may complain to the relevant privacy regulator or seek a remedy available under law, without retaliation.
 
@@ -77,7 +77,7 @@ The canonical `POLICY.md` on the official Sense privacy repository's `main` bran
 ## 11. Published provider and contact schedule
 
 **Responsible company:** Sense Inc.
-**Private contact:** hello@sense.inc.
+**Private contact:** [hello@sense.inc](mailto:hello@sense.inc).
 **Business mailing address:** 3857 Birch St #198, Newport Beach, CA 92660.
 **Hosting/database provider and role:** Amazon Web Services: S3 and CloudFront for the static site; API Gateway and Lambda for signup actions; Cognito for identity; DynamoDB for consent and preferences.
 **Account/data region:** US-EAST-1. CloudFront is an edge-delivery service; it is not a claim that all network processing stays in that region.
@@ -86,4 +86,4 @@ The canonical `POLICY.md` on the official Sense privacy repository's `main` bran
 **SES region and provider-controlled retention:** US-EAST-1.
 **Backup and delivery-log retention:** No customer-configured backups or raw delivery-event logging in the supplied stack.
 **Publication/effective dates:** 09/11/26.
-**Canonical notice and history:** https://github.com/sense-gh/privacy.
+**Canonical notice and history:** [sense-gh/privacy](https://github.com/sense-gh/privacy).
