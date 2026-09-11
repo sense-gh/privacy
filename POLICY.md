@@ -72,7 +72,7 @@ The launch list is for adults aged 18 or older. We do not knowingly solicit chil
 
 ## 10. Public change history
 
-The canonical `PRIVACY.md` on the official Sense privacy repository's `main` branch is the current published notice. Git history preserves prior text, and Sense records the exact source commit and document hash when consent is collected. Material changes receive direct advance notice to affected people, ordinarily at least 30 days, and new consent when required before a new optional purpose begins. A GitHub edit alone does not provide that notice or consent. The durable no-sale, no-targeting, no-cookie and no-shared-training commitments cannot be undone for existing data by a quiet update, a business sale, or an integration agreement.
+The canonical `POLICY.md` on the official Sense privacy repository's `main` branch is the current published notice. Git history preserves prior text, and Sense records the exact source commit and document hash when consent is collected. Material changes receive direct advance notice to affected people, ordinarily at least 30 days, and new consent when required before a new optional purpose begins. A GitHub edit alone does not provide that notice or consent. The durable no-sale, no-targeting, no-cookie and no-shared-training commitments cannot be undone for existing data by a quiet update, a business sale, or an integration agreement.
 
 ## 11. Published provider and contact schedule
 
